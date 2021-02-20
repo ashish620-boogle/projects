@@ -1,0 +1,3 @@
+# projects
+DATA-STRUCTURES...
+This is a full package of linked lists and other programme which are mainly giiven to the student to perform in their data-structure lab works.
